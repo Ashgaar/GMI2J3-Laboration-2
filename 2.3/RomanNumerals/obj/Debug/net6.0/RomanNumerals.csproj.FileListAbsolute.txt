@@ -1,0 +1,15 @@
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2J3 Mjukvarutestning 1\Laboration 2\2.3\RomanNumerals\bin\Debug\net6.0\RomanNumerals.deps.json
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2J3 Mjukvarutestning 1\Laboration 2\2.3\RomanNumerals\bin\Debug\net6.0\RomanNumerals.dll
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2J3 Mjukvarutestning 1\Laboration 2\2.3\RomanNumerals\bin\Debug\net6.0\RomanNumerals.pdb
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2J3 Mjukvarutestning 1\Laboration 2\2.3\RomanNumerals\obj\Debug\net6.0\RomanNumerals.csproj.AssemblyReference.cache
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2J3 Mjukvarutestning 1\Laboration 2\2.3\RomanNumerals\obj\Debug\net6.0\RomanNumerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2J3 Mjukvarutestning 1\Laboration 2\2.3\RomanNumerals\obj\Debug\net6.0\RomanNumerals.AssemblyInfoInputs.cache
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2J3 Mjukvarutestning 1\Laboration 2\2.3\RomanNumerals\obj\Debug\net6.0\RomanNumerals.AssemblyInfo.cs
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2J3 Mjukvarutestning 1\Laboration 2\2.3\RomanNumerals\obj\Debug\net6.0\RomanNumerals.csproj.CoreCompileInputs.cache
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2J3 Mjukvarutestning 1\Laboration 2\2.3\RomanNumerals\obj\Debug\net6.0\RomanNumerals.dll
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2J3 Mjukvarutestning 1\Laboration 2\2.3\RomanNumerals\obj\Debug\net6.0\refint\RomanNumerals.dll
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2J3 Mjukvarutestning 1\Laboration 2\2.3\RomanNumerals\obj\Debug\net6.0\RomanNumerals.pdb
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2J3 Mjukvarutestning 1\Laboration 2\2.3\RomanNumerals\obj\Debug\net6.0\ref\RomanNumerals.dll
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2J3 Mjukvarutestning 1\Laboration 2\2.3\RomanNumerals\bin\Debug\net6.0\RomanNumerals.exe
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2J3 Mjukvarutestning 1\Laboration 2\2.3\RomanNumerals\bin\Debug\net6.0\RomanNumerals.runtimeconfig.json
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2J3 Mjukvarutestning 1\Laboration 2\2.3\RomanNumerals\obj\Debug\net6.0\RomanNumerals.genruntimeconfig.cache
